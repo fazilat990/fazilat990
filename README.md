@@ -54,6 +54,10 @@ I thrive on creating responsive landing pages and redesigning websites with a fo
       <img src="https://img.icons8.com/color/50/000000/sass.png" alt="SASS" width="40" height="40">
       <br /><strong>SASS</strong>
     </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/50/000000/react-native.png" alt="ReactJS" width="40" height="40">
+      <br /><strong>ReactJS</strong>
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -65,16 +69,20 @@ I thrive on creating responsive landing pages and redesigning websites with a fo
       <br /><strong>SQL</strong>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/50/000000/react-native.png" alt="ReactJS" width="40" height="40">
-      <br /><strong>ReactJS</strong>
+      <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png" alt="Gulp.js" width="40" height="40">
+      <br /><strong>Node js</strong>
     </td>
     <td align="center">
       <img src="https://img.icons8.com/color/50/000000/tailwindcss.png" alt="Tailwind CSS" width="40" height="40">
       <br /><strong>Tailwind CSS</strong>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/50/000000/stripe.png" alt="Stripe" width="40" height="40">
-      <br /><strong>Stripe</strong>
+      <img src="https://img.icons8.com/?size=100&id=16Ne6ZK7nvPI&format=png" alt="SEO" width="40" height="40">
+      <br /><strong>SEO</strong>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/50/000000/teamwork.png" alt="Teamwork" width="40" height="40">
+      <br /><strong>Teamwork</strong>
     </td>
   </tr>
   <tr>
@@ -83,8 +91,12 @@ I thrive on creating responsive landing pages and redesigning websites with a fo
       <br /><strong>iDEAL</strong>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/?size=100&id=16Ne6ZK7nvPI&format=png" alt="SEO" width="40" height="40">
-      <br /><strong>SEO</strong>
+      <img src="https://img.icons8.com/color/50/000000/paypal.png" alt="PayPal" width="40" height="40">
+      <br /><strong>PayPal</strong>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/50/000000/stripe.png" alt="Stripe" width="40" height="40">
+      <br /><strong>Stripe</strong>
     </td>
     <td align="center">
       <img src="https://img.icons8.com/color/50/000000/bug.png" alt="Debugging" width="40" height="40">
@@ -95,15 +107,11 @@ I thrive on creating responsive landing pages and redesigning websites with a fo
       <br /><strong>Responsive Design</strong>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png" alt="Gulp.js" width="40" height="40">
-      <br /><strong>Node js</strong>
+      <img src="https://img.icons8.com/?size=100&id=bHAlPCvHT6Tc&format=png" alt="Project Management" width="40" height="40">
+      <br /><strong>Project Management</strong>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/color/50/000000/paypal.png" alt="PayPal" width="40" height="40">
-      <br /><strong>PayPal</strong>
-    </td>
     <td align="center">
       <img src="https://img.icons8.com/?size=100&id=n0dEdhu8RQKJ&format=png" alt="Theme Customization" width="40" height="40">
       <br /><strong>Theme Customization</strong>
@@ -120,8 +128,6 @@ I thrive on creating responsive landing pages and redesigning websites with a fo
       <img src="https://img.icons8.com/color/48/000000/shopify.png" alt="E-commerce" width="40" height="40">
       <br /><strong>Shopify</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://img.icons8.com/color/50/000000/wordpress.png" alt="WordPress" width="40" height="40">
       <br /><strong>WordPress</strong>
@@ -130,20 +136,12 @@ I thrive on creating responsive landing pages and redesigning websites with a fo
       <img src="https://img.icons8.com/color/50/000000/plugin.png" alt="Plugin Integration" width="40" height="40">
       <br /><strong>Plugin Integration</strong>
     </td>
-    <td align="center">
-      <img src="https://img.icons8.com/?size=100&id=bHAlPCvHT6Tc&format=png" alt="Project Management" width="40" height="40">
-      <br /><strong>Project Management</strong>
-    </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://img.icons8.com/color/50/000000/analytics.png" alt="Analytics" width="40" height="40">
       <br /><strong>Analytics</strong>
     </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/50/000000/teamwork.png" alt="Teamwork" width="40" height="40">
-      <br /><strong>Teamwork</strong>
-    </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://img.icons8.com/?size=100&id=hobhTzGFcNkg&format=png" alt="End-to-End Testing" width="40" height="40">
       <br /><strong>End-to-End Testing</strong>
